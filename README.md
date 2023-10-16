@@ -35,6 +35,7 @@ The HU Coding Collaborative offers two distinct pathways:
 ## Projects
 
 One of our initial planned projects is the creation and revamping of a safety and security application for Howard University's campus. This project involves coding, problem-solving, and practical application of programming skills.
+- If interested, please apply to join the CC Project Team on our [Project Application Form](https://docs.google.com/forms/d/e/1FAIpQLSezl5Rj22zyfaghl5dJUHVXMmO5qP84aQ11rC7LNfnRcwAtZA/viewform?usp=sf_link)
 
 ## How to Get Involved
 
@@ -52,6 +53,7 @@ If you have questions, ideas, or would like to get in touch, you can contact us 
 
 - [Website](https://www.thecodingcollaborative.com/)
 - [Instagram](https://www.instagram.com/hucodingcollaborative/)
+- [GroupMe](https://groupme.com/join_group/96232794/n0JdL71D)
 
 Join us in our mission to explore, innovate, and make a positive impact through coding and technology. Let's collaborate to build a better future together!
 
