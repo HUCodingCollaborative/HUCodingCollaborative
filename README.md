@@ -20,9 +20,9 @@ We adopt a multifaceted approach to achieve our mission, which includes:
 
 - **Learning:** We provide opportunities for learning programming languages and technologies relevant to our members' career goals.
 
-## Pathways
+## Curriculums 
 
-The HU Coding Collaborative offers two distinct pathways:
+The HU Coding Collaborative offers two distinct curriculums:
 
 1. **Business Aligned (Computer Information Systems)**:
    - Language: Python
@@ -54,7 +54,7 @@ If you have questions, ideas, or would like to get in touch, you can contact us 
 - [Website](https://www.thecodingcollaborative.com/)
 - [Instagram](https://www.instagram.com/hucodingcollaborative/)
 - [GroupMe](https://groupme.com/join_group/96232794/n0JdL71D)
-- [Tiktok](https://www.tiktok.com/@hucodingcollaborative?_t=8gZYnK1dM9D&_r=1)
+- [TikTok](https://www.tiktok.com/@hucodingcollaborative?_t=8gZYnK1dM9D&_r=1)
 
 Join us in our mission to explore, innovate, and make a positive impact through coding and technology. Let's collaborate to build a better future together!
 
