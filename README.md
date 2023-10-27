@@ -34,7 +34,7 @@ The HU Coding Collaborative offers two distinct curriculums:
    
 ## Projects
 
-One of our initial planned projects is the creation and revamping of a safety and security application for Howard University's campus. This project involves coding, problem-solving, and practical application of programming skills.
+One of our initial planned projects is the creation and revamping of current campus safety and security applicatios. This project involves coding, problem-solving, and practical application of programming skills.
 - If interested, please apply to join the CC Project Team on our [Project Application Form](https://docs.google.com/forms/d/e/1FAIpQLSezl5Rj22zyfaghl5dJUHVXMmO5qP84aQ11rC7LNfnRcwAtZA/viewform?usp=sf_link)
 
 ## How to Get Involved
